@@ -1,0 +1,37 @@
+Pääsivulle index.html tulee seuraava teksti:
+
+Microsoft 365 on Microsoftin pilvipohjainen kuukausimaksullinen tuottavuusympäristö, joka sisältää vanhan Office-paketin ohjelmat ja uusia ominaisuuksia kuten Microsoft Teams, Outlook ja OneDrive-verkkolevy yhdellä teratavulla tallennustilaa. Tuote on käytettävissä PC-, Mac-, mobiilialustoilla ja webissä. Lähde: https://fi.wikipedia.org/wiki/Microsoft_365
+
+Lisäksi sivulle index.html tulee seuraava kuva, jonka voi laittaa sivulle, mikäli sivua ei julkaista Internetissä:
+
+https://en.wikipedia.org/wiki/File:Microsoft_365_logo.png
+
+Word
+
+Sivulle word.html tulee seuraava teksti:
+
+Microsoft Word on Microsoftin kehittämä maailmanlaajuisessa käytössä oleva tekstinkäsittelyohjelma, joka on saatavina useina erikielisinä versioina. Sitä käytetään monilla työpaikoilla ja koulutuksessa. Sitä voi nykyään kokeilla ilmaiseksi, mutta maksaa sen jälkeen. Se sisältyy Microsoft 365 -pakettiin.Wordin kanssa samoista markkinoista kilpailevat mm. LibreOffice ja Google Docs. Lähde: https://fi.wikipedia.org/wiki/Microsoft_Word
+
+Lisätään sivulle kuva word.png.
+
+Tehdään myös linkki takaisin pääsivulle index.html.
+
+Excel
+
+Sivulle excel.html tulee seuraava teksti:
+
+Microsoft Excel on taulukkolaskentaohjelma, joka on osa Microsoft Officea. Ohjelmistosta on saatavilla Windows- ja Mac OS X -versiot. Excelin toiminta perustuu soluihin. Excel kehitettiin alun perin Macintosh-tietokoneisiin vuonna 1985. Vasta marraskuussa 1987 ohjelmasta julkaistiin ensimmäinen Windows-versio. https://fi.wikipedia.org/wiki/Microsoft_Excel
+
+Lisätään sivulle kuva excel.png.
+
+Tehdään myös linkki takaisin pääsivulle index.html.
+
+PowerPoint
+
+Sivulle powerpoint.html tulee seuraava teksti:
+
+Microsoft PowerPoint on Microsoftin Microsoft Office -ohjelmistopakettiin kuuluva esitysgrafiikkaohjelma, joka on kehitetty Windows- ja OS X -käyttöjärjestelmiin. lähde? Ensimmäinen Powerpoint-versio julkaistiin Apple Macintoshille vuonna 1987. Ohjelmiston alkuperäinen kehittäjä oli Forethought-niminen yritys, jonka Microsoft osti pian Powerpoint-julkaisun jälkeen samana vuonna. Lähde: https://fi.wikipedia.org/wiki/Microsoft_PowerPoint
+
+Lisätään sivulle kuva powerpoint.png.
+
+Tehdään myös linkki takaisin pääsivulle index.html.
